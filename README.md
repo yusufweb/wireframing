@@ -21,6 +21,21 @@ Wireframes serve as the blueprint for your project, ensuring that functionality 
 - **Content Placement:** Indicates where text, images, and other content will be positioned.
 - **Functionality:** Outlines key functionalities and interactions.
 
-##cTypes of Wireframes
+## Types of Wireframes
 - **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## Popular Wire Frame Tools
+
+[Figma](https://figma.com) is a powerful, cloud-based design tool widely used for wireframing, UI/UX design, and prototyping.
+
+### 🌟 Key Features:
+- **Collaborative Editing**: Multiple team members can design and give feedback in real time.
+- **Drag-and-Drop Interface**: Easy to create wireframes without needing design expertise.
+- **Prebuilt Templates and Components**: Speeds up the wireframing process with reusable elements.
+- **Cross-Platform Access**: Works directly in the browser or via desktop apps.
+- **Built-in Prototyping**: Turn wireframes into clickable prototypes to simulate user flow.
+
+### 💡 Why Use Figma for Wireframing?
+Figma simplifies the design workflow by allowing fast, interactive wireframing — ideal for brainstorming, validating ideas, and sharing concepts with stakeholders early in the process. Its ease of use and team-friendly features make it a top choice for frontend developers and product teams alike.
+
