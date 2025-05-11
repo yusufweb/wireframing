@@ -15,8 +15,12 @@ Wireframing plays a crucial role in product design for several reasons:
 
 Wireframes serve as the blueprint for your project, ensuring that functionality and user experience are considered before any code is written.
 
-##cKey Elements in a Wireframe
+## Key Elements in a Wireframe
 - **Layout Structure:** Defines the arrangement of elements on the page.
 - **Navigation:** Shows how users will move through the site or application.
 - **Content Placement:** Indicates where text, images, and other content will be positioned.
 - **Functionality:** Outlines key functionalities and interactions.
+
+##cTypes of Wireframes
+- **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
