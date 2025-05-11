@@ -60,12 +60,41 @@ This clarity prevents guesswork during development and ensures features are impl
 
 Wireframes create a **common language** between designers, developers, and stakeholders. Everyone can review and comment on the visual flow before coding begins.
 
+### 3. Supports Agile & Iterative Development
+
+In short, wireframes act as a roadmap, helping everyone stay aligned, reduce risks, and ship usable products faster.
+
 For instance:
 - A frontend dev can estimate how long it’ll take to build the budget chart.
 - A backend dev can prepare APIs based on the layout's data needs.
 - Stakeholders can suggest changes early, without incurring rework costs.
 
 
-### 3. Supports Agile & Iterative Development
+## Real-World Scenario: UNICEF’s Wireframing Phase Prevented Usability Issues
 
-In short, wireframes act as a roadmap, helping everyone stay aligned, reduce risks, and ship usable products faster.
+**UNICEF**, the global humanitarian organization, planned to develop a **donation tracking web app** to allow supporters to track how their contributions were being used across different campaigns.
+
+### The Wireframing Phase
+
+During the wireframing stage, designers created a mock interface with:
+- A dashboard displaying donation history and global campaign impact
+- Filters for date range, campaign type, and region
+- A call-to-action button to increase monthly donations
+
+When tested internally and with a small group of donors, several **usability issues** surfaced:
+
+1. **Overwhelming Interface**: Too many filters cluttered the dashboard, making it difficult for non-technical users to find campaign details.
+2. **Ambiguous Language**: The button “Top Up Donation” confused users unfamiliar with the term — some assumed it meant making a one-time gift, others thought it was for increasing monthly pledges.
+
+### How the Issues Were Resolved
+
+- The design team simplified the filter system, allowing users to select just one campaign focus at a time.
+- Clearer wording was used — the button was renamed to **“Increase Monthly Pledge”**, reducing ambiguity.
+
+Because these problems were caught early during **wireframing**, they avoided costly design revisions in development and prevented user confusion after launch.
+
+## Conclusion: Wireframing as a Catalyst for Usability
+
+Wireframes act as a **first checkpoint** to validate the structure and usability of a digital product. In UNICEF’s case, they helped ensure the donation tool was intuitive, aligned with user expectations, and supportive of their mission.
+
+Wireframing bridges the gap between vision and execution — making it essential for building meaningful, user-friendly tools in the real world.
